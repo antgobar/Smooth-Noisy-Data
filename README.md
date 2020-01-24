@@ -1,5 +1,3 @@
-# my_projects
-Repository of my programming projects. 
-Learning languages such as Python through projects.
+#smooth_xrd_data
 
-Main goal: to become a Data Scientist
+python program to smooth noisy x-ray diffraction data through aveaging a specified number of points
