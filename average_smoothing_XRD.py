@@ -63,4 +63,10 @@ plt.plot(theta_smooth, intensity_smooth, color = 'r')
 #concatenate lists
 smooth_XRD = zip(theta_smooth, intensity_smooth)
 
-#write out data to .csv ???
+csvfile = "smoothed_data.csv"
+
+#write to .csv
+with open(csvfile, "wb") as f:
+    writer = csv.writer(f)
+    for row in smooth_XRD:
+        writer.writerow([row])
