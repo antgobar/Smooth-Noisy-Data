@@ -2,7 +2,7 @@
 """
 Created on Thu Jan 23 10:28:41 2020
 
-@author: preagoe
+@author: AGB90
 
 Take .csv data and perform moving centered average over range x
 """
