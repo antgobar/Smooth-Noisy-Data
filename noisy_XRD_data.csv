@@ -4,7 +4,7 @@ Comment - 1,"Configuration=Oven, Owner=mettpc, Creation date=19/10/2010 09:34:17
 Comment - 2,"Goniometer=PW3050/60 (Theta/Theta); Minimum step size 2Theta:0.001; Minimum step size Omega:0.001"
 Comment - 3,"Sample stage=AP HTK-1200 oven"
 Comment - 4,"Diffractometer system=XPERT-PRO"
-Comment - 5,"Measurement program=C:\PANalytical\Data Collector\Programs\Anton\Hot Stage\20min_scan_10_70.xrdmp, Identifier={08C99E40-7212-40D7-AC41-9CB1509ADBF7}"
+Comment - 5
 Anode material,Cu
 K-Alpha1 wavelength,1.5405980
 K-Alpha2 wavelength,1.5444260
