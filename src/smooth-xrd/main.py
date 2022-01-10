@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 23 10:28:41 2020
-
-@author: preagoe
-
-Take .csv data and perform moving centered average over range x
-"""
 #import relevant libraries
 import os
 import numpy as np
@@ -16,8 +8,7 @@ import csv
 #import math
 
 #set directory
-os.chdir('C:\Users\preagoe\OneDrive - University of Leeds\Python_programing\Python2')
-
+path = ""
 #file to smooth
 filename ='noisy_XRD_data.csv'
 

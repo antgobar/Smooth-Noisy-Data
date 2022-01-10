@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "smooth-xrd"
+version = "0.1.0"
+description = ""
+authors = ["Anton <antongb09@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+numpy = "^1.22.0"
+matplotlib = "^3.5.1"
+PyQt5 = "^5.15.6"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.5"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
